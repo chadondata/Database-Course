@@ -3,7 +3,9 @@
 	Author: Chad Harper
 	License: GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html
 	GitHub: https://github.com/chadondata/Database-Course
-
+	
+	Code provided with no warranty and no liability and all that
+	
 	ChangeLog
 	2/12/2018 File Created
 
